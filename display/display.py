@@ -1,4 +1,5 @@
 
+# The code displays the images that will occur each time an incorrect letter is guessed, until the game is lost or won
 class Display:
     ascii_art = [
 '''
